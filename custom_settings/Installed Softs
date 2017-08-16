@@ -1,0 +1,51 @@
+#. Firefox(Mozilla build) - http://www.psychocats.net/ubuntu/ubuntuzilla
+#. Ubuntu software center
+#. Synaptic Package manager
+#. Redshift (for yeallow screen/read mode)
+#. Netspeed Indicator unity ( https://github.com/GGleb/indicator-netspeed-unity )
+#. XDM (IDM alternative - https://itsfoss.com/xtreme-download-manager-install/), uget
+#. Unity Mail( Mail notifier - https://tari.in/www/software/unitymail/ )
+#. Filezilla, VLC, JRE(Openjdk), skype, xampp
+#. [[[ Time zone fix - (Try changing your location to Reykjavik (the capital of Iceland). Voila! Your Ubuntu time will change to match your BIOS time.) ]]]
+#. Ubuntu tweak
+
+
+
+
+------- OLD--------------
+1. Make files(eg. jar) executable into NTFS drive- install "ntfs-config" from terminal, open it(GUI) and give write permission
+2. Install python
+
+
+
+Install from deb
+--------------------------
+1. ubuntu tweak (for downloading other usefull softs)
+2. chrome
+3. Adobe reader
+
+
+
+
+Install from repo
+---------------------------------
+1. JRE- (search "Openjdk")
+2. Filezilla
+3. Geany (notepad++ alternative)
+4. VLC
+6. Virtualmachine
+7. flash player
+8. Firefox addon- roomy bookmark toolbar
+9. kolourpaint - (ms paint alternative)
+10. Shutter - fireshot alternative
+
+
+
+
+
+Install from zip
+---------------------------
+1. Sublime text (Portable, no need to install)
+2. Skype - https://help.ubuntu.com/community/Skype
+3. utorrent - http://ubuntuhandbook.org/index.php/2014/09/install-utorrent-ubuntu-14-10/
+
