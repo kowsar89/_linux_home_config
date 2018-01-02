@@ -8,6 +8,8 @@
 #. Filezilla, VLC, JRE(Openjdk), skype, xampp
 #. [[[ Time zone fix - (Try changing your location to Reykjavik (the capital of Iceland). Voila! Your Ubuntu time will change to match your BIOS time.) ]]]
 #. Ubuntu tweak
+#. Automount Disk - https://help.ubuntu.com/community/AutomaticallyMountPartitions#Per-User_Mounts()
+    Command: udisksctl mount --block-device /dev/disk/by-uuid/<my-disk-uuid>
 
 
 
